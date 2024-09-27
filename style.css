@@ -1,0 +1,20 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.modal {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 30px;
+}
